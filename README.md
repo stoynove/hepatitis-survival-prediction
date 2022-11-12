@@ -9,11 +9,11 @@
     A data analytics project that predicts mortality risk based on the patient's health conditions!
     <br />
     <br />
-    <a href="">View Demo</a>
+    <a href="https://stoynove-hepatitis-survival-prediction-app-ssizir.streamlit.app/">View Demo</a>
     ·
-    <a href="">Report Bug</a>
+    <a href="https://github.com/stoynove/hepatitis-survival-prediction/issues">Report Bug</a>
     ·
-    <a href="">Request Feature</a>
+    <a href="https://github.com/stoynove/hepatitis-survival-prediction/issues">Request Feature</a>
   </p>
 </div>
 
